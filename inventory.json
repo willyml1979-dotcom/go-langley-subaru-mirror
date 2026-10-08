@@ -1,7 +1,7 @@
 {
   "dealership": "Go Langley Subaru",
-  "generated_at": "2026-10-07T15:40:04",
-  "vehicle_count": 321,
+  "generated_at": "2026-10-08T14:31:37",
+  "vehicle_count": 322,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,14 +13,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/b1a06b9a4edc.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2015/hyundai/equus/surrey/bc/71207201/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2015/hyundai/equus/surrey/bc/71207201/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:05:39",
-      "price": 14099.0,
+      "last_verified": "2026-10-08T09:41:08",
+      "price": 13999.0,
       "price_currency": "CAD",
       "odometer_km": 97152,
       "year": 2015,
       "make": "Hyundai",
       "model": "Equus Ultimate",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 Honda CR-V Touring",
@@ -31,14 +33,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/2477a7b48969.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2016/honda/cr-v/surrey/bc/71271373/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2016/honda/cr-v/surrey/bc/71271373/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:05:56",
-      "price": 22499.0,
+      "last_verified": "2026-10-08T09:41:16",
+      "price": 22099.0,
       "price_currency": "CAD",
       "odometer_km": 93005,
       "year": 2016,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Rio Hatchback 5-Door LX+",
@@ -49,31 +53,36 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/f85a061466c7.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2017/kia/rio-hatchback-5-door/surrey/bc/71248469/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2017/kia/rio-hatchback-5-door/surrey/bc/71248469/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:06:07",
-      "price": 10099.0,
+      "last_verified": "2026-10-08T09:41:26",
+      "price": 9899.0,
       "price_currency": "CAD",
       "odometer_km": 141918,
       "year": 2017,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
-      "name": "2017 Subaru BRZ ",
+      "name": "2017 Subaru BRZ Sport-tech",
       "vin": "JF1ZCAC12H9603988",
       "stock": "26CT214",
       "color": "Blue",
+      "trim": "Sport-tech",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/4b916036dacd.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2017/subaru/brz/surrey/bc/71426901/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2017/subaru/brz/surrey/bc/71426901/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:04:06",
-      "price": 19999.0,
+      "last_verified": "2026-10-08T09:39:45",
+      "price": 19799.0,
       "price_currency": "CAD",
       "odometer_km": 62162,
       "year": 2017,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Subaru Impreza Sport",
@@ -84,14 +93,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/6b42b626a9a0.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2017/subaru/impreza/surrey/bc/70712113/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2017/subaru/impreza/surrey/bc/70712113/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:06:17",
-      "price": 13249.0,
+      "last_verified": "2026-10-08T09:41:35",
+      "price": 12799.0,
       "price_currency": "CAD",
       "odometer_km": 113760,
       "year": 2017,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Touareg Sportline",
@@ -102,14 +113,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/5cf10d650a2e.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2017/volkswagen/touareg/surrey/bc/71350274/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2017/volkswagen/touareg/surrey/bc/71350274/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:06:27",
-      "price": 21999.0,
+      "last_verified": "2026-10-08T09:41:46",
+      "price": 21399.0,
       "price_currency": "CAD",
       "odometer_km": 112205,
       "year": 2017,
       "make": "Volkswagen",
       "model": "Touareg",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte Sedan EX",
@@ -120,14 +133,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/c646d989754e.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2019/kia/forte-sedan/surrey/bc/71122243/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2019/kia/forte-sedan/surrey/bc/71122243/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:06:37",
-      "price": 13099.0,
+      "last_verified": "2026-10-08T09:41:55",
+      "price": 12899.0,
       "price_currency": "CAD",
       "odometer_km": 113101,
       "year": 2019,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks ",
@@ -144,23 +159,29 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
-      "name": "2019 Subaru Forester 2.5i Limited w-EyeSight Pkg",
+      "name": "2019 Subaru Forester Limited",
       "vin": "JF2SKEUC4KH407815",
       "stock": "26FO997",
       "color": "Grey",
-      "trim": "2.5i Limited w-EyeSight Pkg",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/ce625540e678.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2019/subaru/forester/surrey/bc/71449336/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2019/subaru/forester/surrey/bc/71449336/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:04:14",
+      "last_verified": "2026-10-08T09:39:54",
+      "price": 24999.0,
+      "price_currency": "CAD",
       "odometer_km": 111692,
       "year": 2019,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Outback 2.5i (CVT)",
@@ -178,10 +199,12 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
-      "name": "2020 Jeep Cherokee Trailhawk 4x4",
+      "name": "2020 Jeep Cherokee Trailhawk",
       "vin": "1C4PJMBX6LD512226",
       "stock": "SB672",
       "color": "Silver",
@@ -189,11 +212,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/1f3de8cf480a.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2020/jeep/cherokee/surrey/bc/71449337/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2020/jeep/cherokee/surrey/bc/71449337/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:04:22",
+      "last_verified": "2026-10-08T09:40:03",
+      "price": 21999.0,
+      "price_currency": "CAD",
+      "odometer_km": 107802,
       "year": 2020,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Pathfinder Platinum",
@@ -211,7 +239,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Crosstrek Limited",
@@ -222,14 +252,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/7e78349e8a42.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2020/subaru/crosstrek/surrey/bc/71426902/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2020/subaru/crosstrek/surrey/bc/71426902/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:04:33",
-      "price": 24999.0,
+      "last_verified": "2026-10-08T09:40:11",
+      "price": 24899.0,
       "price_currency": "CAD",
       "odometer_km": 79837,
       "year": 2020,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Outback Limited",
@@ -247,7 +279,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Tesla Model Y Long Range",
@@ -265,7 +299,9 @@
       "year": 2020,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee Summit",
@@ -283,7 +319,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sportage SX",
@@ -294,14 +332,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/1f5fbbbb83fb.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2021/kia/sportage/surrey/bc/71417945/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2021/kia/sportage/surrey/bc/71417945/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:04:53",
-      "price": 24999.0,
+      "last_verified": "2026-10-08T09:40:21",
+      "price": 22999.0,
       "price_currency": "CAD",
       "odometer_km": 30221,
       "year": 2021,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Legacy Sedan Convenience",
@@ -319,7 +359,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Legacy",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X3 xDrive30i",
@@ -337,7 +379,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Ascent Onyx",
@@ -355,7 +399,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Ascent Onyx",
@@ -373,7 +419,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback Limited",
@@ -391,7 +439,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback Limited",
@@ -409,7 +459,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Volvo XC90 Recharge Inscription Expression",
@@ -427,23 +479,29 @@
       "year": 2022,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
-      "name": "2023 Mazda CX-5 Sport Design w-Turbo AWD",
+      "name": "2023 Mazda CX-5 Sport Design w/Turbo",
       "vin": "JM3KFBDY3P0225565",
       "stock": "26FO422",
       "color": "Red",
-      "trim": "Sport Design w-Turbo",
+      "trim": "Sport Design",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/ea5a5d8084a0.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2023/mazda/cx-5/surrey/bc/71449341/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2023/mazda/cx-5/surrey/bc/71449341/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:05:01",
+      "last_verified": "2026-10-08T09:40:29",
+      "price": 33999.0,
+      "price_currency": "CAD",
       "odometer_km": 30889,
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Ascent Limited",
@@ -461,7 +519,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y RWD",
@@ -478,7 +538,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y RWD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 Elevation",
@@ -489,14 +551,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/6827237b44fa.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2024/gmc/sierra-1500/surrey/bc/71178900/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2024/gmc/sierra-1500/surrey/bc/71178900/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:05:11",
-      "price": 53899.0,
+      "last_verified": "2026-10-08T09:40:39",
+      "price": 53499.0,
       "price_currency": "CAD",
       "odometer_km": 34223,
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited",
@@ -514,7 +578,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited",
@@ -532,7 +598,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited",
@@ -550,7 +618,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx",
@@ -568,7 +638,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx",
@@ -586,7 +658,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Wilderness",
@@ -604,7 +678,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited",
@@ -622,7 +698,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Touring",
@@ -640,7 +718,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited",
@@ -658,7 +738,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Impreza Touring",
@@ -676,7 +758,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Impreza Convenience",
@@ -694,7 +778,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Impreza RS",
@@ -712,7 +798,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Impreza Touring",
@@ -730,7 +818,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Wilderness",
@@ -748,7 +838,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX GT",
@@ -766,7 +858,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX Sport",
@@ -784,7 +878,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX Sport",
@@ -802,7 +898,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX Manual",
@@ -820,7 +918,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX RS",
@@ -838,7 +938,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Equinox AWD ACTIV",
@@ -856,7 +958,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport Big Bend",
@@ -874,7 +978,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Hatchback Sport",
@@ -892,7 +998,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Sedan Sport",
@@ -910,7 +1018,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Limited",
@@ -927,7 +1037,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Touring",
@@ -945,7 +1057,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Premier",
@@ -963,7 +1077,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Touring",
@@ -978,7 +1094,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Premier",
@@ -996,7 +1114,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Premier",
@@ -1007,17 +1127,19 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/557e6e7d38e8.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2025/subaru/forester/surrey/bc/71426903/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2025/subaru/forester/surrey/bc/71426903/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:05:20",
-      "price": 38499.0,
+      "last_verified": "2026-10-08T09:40:49",
+      "price": 37999.0,
       "price_currency": "CAD",
       "odometer_km": 37358,
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
-      "name": "2025 Subaru Forester Sport AWD",
+      "name": "2025 Subaru Forester Sport",
       "vin": "JF2SLDHC3SH541278",
       "stock": "SB671",
       "color": "White",
@@ -1025,14 +1147,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/ef9ddb6b3230.html",
       "source_url": "https://www.langleysubaru.com/vehicles/2025/subaru/forester/surrey/bc/71449338/?sale_class=used",
       "dealer_url": "https://www.langleysubaru.com/vehicles/2025/subaru/forester/surrey/bc/71449338/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:05:29",
-      "price": 39999.0,
+      "last_verified": "2026-10-08T09:40:57",
+      "price": 39799.0,
       "price_currency": "CAD",
       "odometer_km": 11122,
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Limited AWD",
@@ -1047,7 +1171,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Outback Onyx",
@@ -1065,7 +1191,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru WRX Sport-tech",
@@ -1083,7 +1211,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru WRX Sport",
@@ -1101,7 +1231,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Highline",
@@ -1119,7 +1251,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volvo XC40 Core Bright Theme",
@@ -1137,7 +1271,26 @@
       "year": 2025,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "2026 Nissan Rogue",
+      "vin": "JN8BT3BBXTW093051",
+      "stock": "SO274",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/8f64d81ee326.html",
+      "source_url": "https://www.langleysubaru.com/vehicles/2026/nissan/rogue/surrey/bc/71508437/?sale_class=used",
+      "dealer_url": "https://www.langleysubaru.com/vehicles/2026/nissan/rogue/surrey/bc/71508437/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:39:37",
+      "odometer_km": 28632,
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
@@ -1155,7 +1308,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
@@ -1173,7 +1328,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
@@ -1191,7 +1348,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring",
@@ -1209,7 +1368,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience",
@@ -1227,7 +1388,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited",
@@ -1245,7 +1408,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience",
@@ -1263,7 +1428,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
@@ -1281,7 +1448,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport",
@@ -1299,7 +1468,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience",
@@ -1317,7 +1488,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited",
@@ -1335,7 +1508,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier",
@@ -1353,7 +1528,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier",
@@ -1371,7 +1548,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience",
@@ -1389,7 +1568,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited",
@@ -1407,7 +1588,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier",
@@ -1425,7 +1608,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Impreza RS",
@@ -1443,7 +1628,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT",
@@ -1461,7 +1648,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT",
@@ -1479,7 +1668,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT",
@@ -1497,7 +1688,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness",
@@ -1515,7 +1708,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness",
@@ -1533,7 +1728,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
@@ -1551,7 +1748,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
@@ -1569,7 +1768,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
@@ -1587,7 +1788,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
@@ -1605,7 +1808,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
@@ -1623,7 +1828,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
@@ -1641,7 +1848,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
@@ -1659,7 +1868,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
@@ -1677,7 +1888,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid ",
@@ -1693,7 +1906,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1711,7 +1926,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1729,7 +1946,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1747,7 +1966,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1765,7 +1986,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1783,7 +2006,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1801,7 +2026,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED | AWD",
@@ -1819,7 +2046,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD",
@@ -1837,7 +2066,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED | AWD",
@@ -1855,7 +2086,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1873,7 +2106,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX | AWD",
@@ -1891,7 +2126,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -1909,7 +2146,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED | AWD",
@@ -1927,7 +2166,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -1945,7 +2186,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED | AWD",
@@ -1963,7 +2206,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1981,7 +2226,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -1999,7 +2246,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED | AWD",
@@ -2017,7 +2266,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -2035,7 +2286,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX | AWD",
@@ -2053,7 +2306,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX | AWD",
@@ -2071,7 +2326,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -2089,7 +2346,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -2107,7 +2366,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX | AWD",
@@ -2125,7 +2386,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -2143,7 +2406,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -2161,7 +2426,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -2179,7 +2446,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED | AWD",
@@ -2197,7 +2466,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -2215,7 +2486,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING | AWD",
@@ -2233,7 +2506,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX | AWD",
@@ -2251,7 +2526,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -2269,7 +2546,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX | AWD",
@@ -2287,7 +2566,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -2305,7 +2586,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -2323,7 +2606,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
@@ -2341,7 +2626,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX | AWD",
@@ -2359,7 +2646,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX | AWD",
@@ -2377,7 +2666,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek",
@@ -2391,7 +2682,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek",
@@ -2404,7 +2697,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ",
@@ -2421,7 +2716,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -2439,7 +2736,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -2457,7 +2756,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -2475,7 +2776,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -2493,7 +2796,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -2511,7 +2816,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER | AWD",
@@ -2529,7 +2836,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER | AWD",
@@ -2547,7 +2856,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -2565,7 +2876,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -2583,7 +2896,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -2601,7 +2916,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -2619,7 +2936,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -2637,7 +2956,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -2655,7 +2976,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -2673,7 +2996,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -2691,7 +3016,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -2709,7 +3036,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -2727,7 +3056,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -2745,7 +3076,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -2763,7 +3096,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -2781,7 +3116,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -2799,7 +3136,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -2817,7 +3156,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -2835,7 +3176,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -2853,7 +3196,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -2871,7 +3216,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -2889,7 +3236,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -2907,7 +3256,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER | AWD",
@@ -2925,7 +3276,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -2943,7 +3296,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -2961,7 +3316,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -2979,7 +3336,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER | AWD",
@@ -2997,7 +3356,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3015,7 +3376,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -3033,7 +3396,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3051,7 +3416,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER | AWD",
@@ -3069,7 +3436,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3087,7 +3456,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3105,7 +3476,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3123,7 +3496,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3141,7 +3516,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3159,7 +3536,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3177,7 +3556,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3195,7 +3576,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3213,7 +3596,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3231,7 +3616,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER | AWD",
@@ -3249,7 +3636,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3267,7 +3656,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3285,7 +3676,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3303,7 +3696,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3321,7 +3716,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER | AWD",
@@ -3339,7 +3736,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER | AWD",
@@ -3357,7 +3756,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3375,7 +3776,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER | AWD",
@@ -3393,7 +3796,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3411,7 +3816,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -3429,7 +3836,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3447,7 +3856,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3465,7 +3876,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -3483,7 +3896,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER | AWD",
@@ -3501,7 +3916,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -3519,7 +3936,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3537,7 +3956,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER | AWD",
@@ -3555,7 +3976,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3573,7 +3996,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3591,7 +4016,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3609,7 +4036,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER | AWD",
@@ -3627,7 +4056,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -3645,7 +4076,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3663,7 +4096,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3681,7 +4116,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3699,7 +4136,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -3717,7 +4156,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3735,7 +4176,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3753,7 +4196,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -3771,7 +4216,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -3789,7 +4236,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -3807,7 +4256,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3825,7 +4276,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3843,7 +4296,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -3861,7 +4316,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -3879,7 +4336,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -3897,7 +4356,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3915,7 +4376,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3933,7 +4396,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3951,7 +4416,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -3969,7 +4436,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -3987,7 +4456,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -4005,7 +4476,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER | AWD",
@@ -4023,7 +4496,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -4041,7 +4516,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4059,7 +4536,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4077,7 +4556,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4095,7 +4576,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4113,7 +4596,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -4131,7 +4616,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -4149,7 +4636,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4167,7 +4656,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT | AWD",
@@ -4185,7 +4676,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -4203,7 +4696,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -4221,7 +4716,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -4239,7 +4736,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING | AWD",
@@ -4257,7 +4756,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -4275,7 +4776,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -4293,7 +4796,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4311,7 +4816,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -4329,7 +4836,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -4347,7 +4856,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | AWD",
@@ -4365,7 +4876,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4383,7 +4896,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -4401,7 +4916,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER | AWD",
@@ -4419,7 +4936,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester e-BOXER Hybrid Premier | AWD",
@@ -4437,7 +4956,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4455,7 +4976,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED | AWD",
@@ -4473,7 +4996,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4490,7 +5015,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4507,7 +5034,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4523,7 +5052,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4539,7 +5070,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4555,7 +5088,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4572,7 +5107,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4589,7 +5126,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4605,7 +5144,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4621,7 +5162,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4638,7 +5181,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4655,7 +5200,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4672,7 +5219,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4689,7 +5238,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4706,7 +5257,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ",
@@ -4723,7 +5276,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Impreza RS | AWD",
@@ -4741,7 +5296,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -4759,7 +5316,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -4777,7 +5336,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -4795,7 +5356,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -4813,7 +5376,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -4831,7 +5396,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback WILDERNESS | AWD",
@@ -4849,7 +5416,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -4867,7 +5436,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -4885,7 +5456,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -4903,7 +5476,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -4921,7 +5496,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -4939,7 +5516,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback TOURING | AWD",
@@ -4957,7 +5536,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback WILDERNESS | AWD",
@@ -4975,7 +5556,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -4993,7 +5576,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -5011,7 +5596,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback TOURING | AWD",
@@ -5029,7 +5616,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback TOURING | AWD",
@@ -5047,7 +5636,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback TOURING | AWD",
@@ -5065,7 +5656,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5083,7 +5676,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -5101,7 +5696,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5119,7 +5716,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -5137,7 +5736,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5155,7 +5756,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback TOURING | AWD",
@@ -5173,7 +5776,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5191,7 +5796,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5209,7 +5816,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5227,7 +5836,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5245,7 +5856,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5263,7 +5876,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5281,7 +5896,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -5299,7 +5916,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT | AWD",
@@ -5317,7 +5936,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5335,7 +5956,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT | AWD",
@@ -5353,7 +5976,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback ",
@@ -5370,7 +5995,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback ",
@@ -5387,7 +6014,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback ",
@@ -5404,7 +6033,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback",
@@ -5417,7 +6048,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback",
@@ -5430,7 +6063,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback ",
@@ -5446,7 +6081,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback ",
@@ -5463,7 +6100,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseeker LIMITED | AWD",
@@ -5480,7 +6119,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseeker LIMITED",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseeker ",
@@ -5497,7 +6138,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseeker",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Kaminari Edition | AWD",
@@ -5515,7 +6158,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT TECH | AWD",
@@ -5533,7 +6178,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT TECH | AWD",
@@ -5551,7 +6198,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT TECH | AWD",
@@ -5569,7 +6218,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT | AWD",
@@ -5587,7 +6238,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX tS | 6 Speed Manual | AWD",
@@ -5605,7 +6258,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX GT | AWD",
@@ -5623,7 +6278,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT-TECH | AWD",
@@ -5641,7 +6298,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX tS Manual | AWD",
@@ -5659,7 +6318,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT | AWD",
@@ -5677,7 +6338,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT | AWD",
@@ -5695,7 +6358,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru BRZ 6 SPEED MANUAL",
@@ -5713,7 +6378,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
