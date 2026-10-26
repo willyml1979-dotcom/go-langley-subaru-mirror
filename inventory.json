@@ -1,7 +1,7 @@
 {
   "dealership": "Go Langley Subaru",
-  "generated_at": "2026-10-25T20:59:54",
-  "vehicle_count": 410,
+  "generated_at": "2026-10-25T21:20:39",
+  "vehicle_count": 424,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1917,6 +1917,15 @@
       "condition": "new"
     },
     {
+      "name": "2026 Subaru Crosstrek",
+      "vin": "JF2GUHDC4T8298243",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/cce527b82ee4.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new"
+    },
+    {
       "name": "2026 Subaru Forester LIMITED | AWD",
       "vin": "JF2SLDRC7TH459117",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/54ff556b1e33.html",
@@ -3550,6 +3559,89 @@
       "condition": "new"
     },
     {
+      "name": "2026 Subaru Forester",
+      "vin": "JF2SLDHC6TH479263",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/a090b5eef316.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Forester ",
+      "vin": "JF2SLDHC6TH479361",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/a9cc0f0dd686.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": -1750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester",
+      "vin": "JF2SLDAC2TH479223",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/ba6c066ed403.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Forester",
+      "vin": "JF2SLDHCXTH479394",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/fb7189fcc8b5.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Forester",
+      "vin": "JF2SLDRC0TH479239",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/d4ca0c9b8697.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Forester",
+      "vin": "JF2SLDHC4TH479343",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/2d6a95830a85.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Forester",
+      "vin": "JF2SLSTD2TH479264",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/7e2c9bac1e91.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Forester",
+      "vin": "JF2SLDAC8TH479274",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/dbc7568ed28a.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Forester",
+      "vin": "JF2SLSTD8TH479270",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/09610db881d9.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new"
+    },
+    {
       "name": "2026 Subaru Impreza ",
       "vin": "JF1GUAFC9T8292026",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/67d264f51ed1.html",
@@ -4323,6 +4415,42 @@
       "condition": "new",
       "price": -1500.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback",
+      "vin": "JF2BUPCD1TY604930",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/f863487ce852.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Outback",
+      "vin": "JF2BURLD1TY604910",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/56f7f40d3db7.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Outback",
+      "vin": "JF2BURHD6TY605706",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/4d4c5c73e9cb.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Subaru Outback",
+      "vin": "JF2BUPCDXTY605025",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/e785bb10e26d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new"
     },
     {
       "name": "2026 Subaru WRX Kaminari Edition | AWD",
