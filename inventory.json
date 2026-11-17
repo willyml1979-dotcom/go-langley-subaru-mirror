@@ -1,7 +1,7 @@
 {
   "dealership": "Go Langley Subaru",
-  "generated_at": "2026-10-26T06:11:01",
-  "vehicle_count": 428,
+  "generated_at": "2026-11-17T03:30:38",
+  "vehicle_count": 432,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -17,17 +17,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Volkswagen Tiguan ",
-      "vin": "WVGJV7AXXFW513719",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/9ea4dab9a904.html",
-      "year": 2015,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 13999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 BMW 2 Series Coupe 228i xDrive",
       "vin": "WBA1G9C54GV726868",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/40c9a08c53a8.html",
@@ -35,7 +24,7 @@
       "make": "BMW",
       "model": "2 Series",
       "condition": "used",
-      "price": 18799.0,
+      "price": 17899.0,
       "price_currency": "CAD"
     },
     {
@@ -50,15 +39,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Honda CR-V EX",
-      "vin": "2HKRM4H54GH126927",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/b6c2f74eff47.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used"
-    },
-    {
       "name": "2017 Kia Rio Hatchback 5-Door LX+",
       "vin": "KNADM5A30H6047272",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/f85a061466c7.html",
@@ -67,6 +47,17 @@
       "model": "Rio",
       "condition": "used",
       "price": 9699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Mazda Mazda3 Sport GT",
+      "vin": "JM1BN1M33H1121874",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/eec0a8afa6b9.html",
+      "year": 2017,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 16999.0,
       "price_currency": "CAD"
     },
     {
@@ -81,80 +72,45 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Volkswagen Touareg Sportline",
-      "vin": "WVGEF7BP0HD001706",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/5cf10d650a2e.html",
+      "name": "2017 Toyota Corolla iM",
+      "vin": "JTNKARJEXHJ531194",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/61909e88333a.html",
       "year": 2017,
-      "make": "Volkswagen",
-      "model": "Touareg",
-      "condition": "used",
-      "price": 21099.0,
-      "price_currency": "CAD"
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "used"
     },
     {
-      "name": "2018 Subaru Crosstrek Limited",
-      "vin": "JF2GTAMC8JH350688",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/57eb80f3eec9.html",
+      "name": "2018 Dodge Grand Caravan Passenger Van SXT Premium Plus",
+      "vin": "2C4RDGBG4JR173493",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/046970f31a0d.html",
       "year": 2018,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 24499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Subaru Forester Touring",
-      "vin": "JF2SJEJC0JH520361",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/e97b7f763519.html",
-      "year": 2018,
-      "make": "Subaru",
-      "model": "Forester",
+      "make": "Dodge",
+      "model": "Grand Caravan",
       "condition": "used",
       "price": 19999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 GMC Acadia Denali",
-      "vin": "1GKKNXLS2KZ201210",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/525c6eb901ca.html",
-      "year": 2019,
-      "make": "GMC",
-      "model": "Acadia",
+      "name": "2018 Nissan Rogue S",
+      "vin": "5N1AT2MV5JC719057",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/1e4331ee2b75.html",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Rogue",
       "condition": "used",
-      "price": 24999.0,
+      "price": 14999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Kia Forte Sedan EX",
-      "vin": "3KPF54AD4KE102139",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/c646d989754e.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 12099.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Subaru Forester Limited",
-      "vin": "JF2SKEUC4KH407815",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/ce625540e678.html",
-      "year": 2019,
+      "name": "2018 Subaru Crosstrek Limited",
+      "vin": "JF2GTAMC8JH350688",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/615ecf0ed48f.html",
+      "year": 2018,
       "make": "Subaru",
-      "model": "Forester",
+      "model": "Crosstrek",
       "condition": "used",
-      "price": 24499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Subaru Outback 2.5i (CVT)",
-      "vin": "4S4BSDAC1K3350317",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/bdce82d79596.html",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 23299.0,
+      "price": 24299.0,
       "price_currency": "CAD"
     },
     {
@@ -189,17 +145,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru Forester Touring",
-      "vin": "JF2SKEJCXLH434698",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/e0835c80392a.html",
-      "year": 2020,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 21499.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Subaru Outback Limited",
       "vin": "4S4BTDNC3L3160950",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/bb99d92c47ba.html",
@@ -208,6 +153,17 @@
       "model": "Outback",
       "condition": "used",
       "price": 24899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Subaru Outback Limited",
+      "vin": "4S4BTDNC6L3216945",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/1cfc1ba03bb1.html",
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 23999.0,
       "price_currency": "CAD"
     },
     {
@@ -222,15 +178,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Kona Electric Preferred FWD",
-      "vin": "KM8K23AG6MU122159",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/98fbfce09de9.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "used"
-    },
-    {
       "name": "2021 Jeep Grand Cherokee Summit",
       "vin": "1C4RJFJT4MC887056",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/43626f58fb67.html",
@@ -239,6 +186,17 @@
       "model": "Grand Cherokee",
       "condition": "used",
       "price": 41999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Jeep Grand Cherokee Altitude",
+      "vin": "1C4RJFAGXMC824207",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/2207a990b9f0.html",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 30999.0,
       "price_currency": "CAD"
     },
     {
@@ -264,25 +222,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Subaru Legacy Sedan Convenience",
-      "vin": "4S3BWDA63M3008986",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/53a72bc7eb8c.html",
+      "name": "2021 Subaru Forester Convenience",
+      "vin": "JF2SKEFC5MH554385",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/b59f7fa364d6.html",
       "year": 2021,
       "make": "Subaru",
-      "model": "Legacy",
+      "model": "Forester",
       "condition": "used",
-      "price": 21564.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota Venza XLE",
-      "vin": "JTEAAAAH4MJ067885",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/85c7a14ab72b.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Venza",
-      "condition": "used",
-      "price": 36499.0,
+      "price": 23999.0,
       "price_currency": "CAD"
     },
     {
@@ -293,7 +240,29 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 34899.0,
+      "price": 32899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Chevrolet Trailblazer RS",
+      "vin": "KL79MUSL3NB111435",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/793de68f185c.html",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "condition": "used",
+      "price": 24688.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Chrysler Pacifica Touring L",
+      "vin": "2C4RC1BG6NR109137",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/27f741eb990d.html",
+      "year": 2022,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "used",
+      "price": 26999.0,
       "price_currency": "CAD"
     },
     {
@@ -315,7 +284,18 @@
       "make": "Subaru",
       "model": "Ascent",
       "condition": "used",
-      "price": 31799.0,
+      "price": 30688.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Subaru Forester Premier",
+      "vin": "JF2SKERC6NH490970",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/12b4bb19183a.html",
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 30999.0,
       "price_currency": "CAD"
     },
     {
@@ -326,7 +306,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 30799.0,
+      "price": 29999.0,
       "price_currency": "CAD"
     },
     {
@@ -337,7 +317,7 @@
       "make": "Toyota",
       "model": "C-HR",
       "condition": "used",
-      "price": 22499.0,
+      "price": 22099.0,
       "price_currency": "CAD"
     },
     {
@@ -348,40 +328,18 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 49699.0,
+      "price": 48888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Bolt EV 1LT",
-      "vin": "1G1FW6S0XP4190135",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/d3fa59e81a52.html",
+      "name": "2023 Ford Maverick XLT",
+      "vin": "3FTTW8F94PRA38549",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/c8303814edcd.html",
       "year": 2023,
-      "make": "Chevrolet",
-      "model": "Bolt EV",
+      "make": "Ford",
+      "model": "Maverick",
       "condition": "used",
-      "price": 25999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Corvette 70TH ANNIVERSARY EDITION",
-      "vin": "1G1YC3D49P5500057",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/038faf5e7f2b.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Corvette",
-      "condition": "used",
-      "price": 93499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mazda CX-30 GT w/Turbo",
-      "vin": "3MVDMBDY3PM549084",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/462b6ca3a596.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 28488.0,
+      "price": 32999.0,
       "price_currency": "CAD"
     },
     {
@@ -396,14 +354,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru BRZ Sport-tech",
-      "vin": "JF1ZDBE15P9700715",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/222b8a8311e2.html",
+      "name": "2023 Subaru Forester Limited",
+      "vin": "JF2SKEPC8PH452890",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/be138c840905.html",
       "year": 2023,
       "make": "Subaru",
-      "model": "BRZ",
+      "model": "Forester",
       "condition": "used",
-      "price": 27499.0,
+      "price": 35999.0,
       "price_currency": "CAD"
     },
     {
@@ -414,18 +372,29 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 35899.0,
+      "price": 34899.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru WRX Sport-tech",
-      "vin": "JF1VBAN68P8802834",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/a7d34f43133d.html",
+      "name": "2023 Subaru Outback Touring",
+      "vin": "4S4BTDEC2P3109770",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/23242c8c1150.html",
       "year": 2023,
       "make": "Subaru",
-      "model": "WRX",
+      "model": "Outback",
       "condition": "used",
-      "price": 31299.0,
+      "price": 28999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Subaru Solterra w/Luxury Package",
+      "vin": "JTMABABA9PA004109",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/4ad5c09ef3ad.html",
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Solterra",
+      "condition": "used",
+      "price": 30999.0,
       "price_currency": "CAD"
     },
     {
@@ -440,14 +409,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Tesla Model Y RWD",
-      "vin": "LRWYGDFD1PC163987",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/a2dab88e6fd2.html",
+      "name": "2023 Subaru WRX Sport",
+      "vin": "JF1VBAH65P8811633",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/bb4d9193c24c.html",
       "year": 2023,
-      "make": "Tesla",
-      "model": "Model Y RWD",
+      "make": "Subaru",
+      "model": "WRX",
       "condition": "used",
-      "price": 39199.0,
+      "price": 31999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Volkswagen Tiguan Highline R-Line",
+      "vin": "3VV4B7AX3PM089569",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/54f34eb2d447.html",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 27888.0,
       "price_currency": "CAD"
     },
     {
@@ -458,18 +438,18 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 64199.0,
+      "price": 61588.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC Sierra 1500 Elevation",
-      "vin": "3GTUUCED6RG436055",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/6827237b44fa.html",
+      "name": "2024 Ford F-150 Platinum",
+      "vin": "1FTFW7LD5RFA54632",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/e15e55131f49.html",
       "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
+      "make": "Ford",
+      "model": "F-150",
       "condition": "used",
-      "price": 53199.0,
+      "price": 75488.0,
       "price_currency": "CAD"
     },
     {
@@ -480,17 +460,52 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 47999.0,
+      "price": 41299.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Venue Ultimate IVT w-Denim Interior",
+      "name": "2024 Hyundai Venue Ultimate",
       "vin": "KMHRC8A32RU292080",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/dbc059d29ab6.html",
       "year": 2024,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "price": 22599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Infiniti Q50 LUXE",
+      "vin": "JN1EV7BR4RM632181",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/5c1034b07b15.html",
+      "year": 2024,
+      "make": "Infiniti",
+      "model": "Q50",
+      "condition": "used",
+      "price": 34888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia Forte Sedan EX",
+      "vin": "3KPF34AD9RE719388",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/6b7920b2b819.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Forte",
+      "condition": "used",
+      "price": 18299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia Seltos LX",
+      "vin": "KNDEPCAA8R7474390",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/272af1ea9e66.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 22999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 Mitsubishi Outlander PHEV LE",
@@ -500,18 +515,29 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 37799.0,
+      "price": 37588.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Subaru Ascent Limited",
-      "vin": "4S4WMAPD5R3407123",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/ef7ebebc7b2e.html",
+      "name": "2024 Subaru Ascent Onyx",
+      "vin": "4S4WMAHDXR3430301",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/42fa2fb63546.html",
       "year": 2024,
       "make": "Subaru",
       "model": "Ascent",
       "condition": "used",
-      "price": 38999.0,
+      "price": 38888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru Ascent Touring",
+      "vin": "4S4WMADD1R3408337",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/dc4ba0d8541a.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Ascent",
+      "condition": "used",
+      "price": 34999.0,
       "price_currency": "CAD"
     },
     {
@@ -581,59 +607,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Subaru Crosstrek Onyx",
-      "vin": "JF2GUHFC9RH342193",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/93b2df3af651.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Subaru Impreza Touring",
-      "vin": "JF1GUAFC4R8334451",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/7aeb4d6cd246.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Impreza",
-      "condition": "used",
-      "price": 23799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Impreza Convenience",
-      "vin": "JF1GUABC9R8348125",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/a801d39ddbd5.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Impreza",
-      "condition": "used",
-      "price": 23799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Impreza RS",
-      "vin": "JF1GUHJC8R8327292",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/da658509a984.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Impreza",
-      "condition": "used",
-      "price": 28490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Outback Wilderness",
-      "vin": "4S4BTHTD0R3116707",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/31b5286bf3f9.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 37199.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Subaru WRX Sport",
       "vin": "JF1VBAH66R8802684",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/5cbb843da742.html",
@@ -656,14 +629,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Subaru WRX Manual",
-      "vin": "JF1VBAB63R9802340",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/f720908ae842.html",
+      "name": "2024 Volkswagen Taos Highline",
+      "vin": "3VV4X7B21RM034271",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/d1b796b14ac0.html",
       "year": 2024,
-      "make": "Subaru",
-      "model": "WRX",
+      "make": "Volkswagen",
+      "model": "Taos",
       "condition": "used",
-      "price": 32299.0,
+      "price": 27888.0,
       "price_currency": "CAD"
     },
     {
@@ -675,17 +648,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 31999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi A5 Progressiv",
-      "vin": "WAU5BCFU6SN030067",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/26bb1318cb4e.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "A5",
-      "condition": "used",
-      "price": 46999.0,
       "price_currency": "CAD"
     },
     {
@@ -711,13 +673,46 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Bronco Sport Outer Banks 4x4",
+      "name": "2025 Chrysler Pacifica Select",
+      "vin": "2C4RC3BG0SR517768",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/e4af1b09f33e.html",
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "used",
+      "price": 43999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Bronco Sport Outer Banks",
       "vin": "3FMCR9CN9SRE16982",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/0ed2b00f45f7.html",
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
+      "condition": "used",
+      "price": 34488.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Escape Active",
+      "vin": "1FMCU9GN9SUB09457",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/ff4fc84038f6.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
       "condition": "used"
+    },
+    {
+      "name": "2025 GMC Sierra 3500HD Pro",
+      "vin": "1GT4USE79SF226285",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/cdf4c5ff15f5.html",
+      "year": 2025,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "used",
+      "price": 71888.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Honda Civic Sedan Sport",
@@ -731,15 +726,24 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-5 GS",
-      "vin": "JM3KFBCL9S0683089",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/d0f73d0b4a48.html",
+      "name": "2025 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H93SH203879",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/e9ff512aec2c.html",
       "year": 2025,
-      "make": "Mazda",
-      "model": "CX-5",
+      "make": "Honda",
+      "model": "CR-V",
       "condition": "used",
-      "price": 30488.0,
+      "price": 42999.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Kona Preferred",
+      "vin": "KM8HCCAB5SU313760",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/c323714ee252.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used"
     },
     {
       "name": "2025 Mazda Mazda3 Sport GT w/Turbo",
@@ -749,7 +753,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 34999.0,
+      "price": 35299.0,
       "price_currency": "CAD"
     },
     {
@@ -761,28 +765,6 @@
       "model": "Outlander",
       "condition": "used",
       "price": 29956.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Subaru Forester Limited",
-      "vin": "JF2SLDRC6SH517748",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/98f708f7b9ac.html",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 40999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Subaru Forester Touring",
-      "vin": "JF2SLDDCXSH434573",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/d2a64d07a0f2.html",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 33599.0,
       "price_currency": "CAD"
     },
     {
@@ -841,15 +823,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Subaru Forester Convenience",
-      "vin": "JF2SLDAC2SH607149",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/3c9d9988f54a.html",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used"
-    },
-    {
       "name": "2025 Subaru Forester Touring",
       "vin": "JF2SLDDCXSH561193",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/06d7e9123a6e.html",
@@ -868,6 +841,28 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used"
+    },
+    {
+      "name": "2025 Subaru Forester Touring",
+      "vin": "JF2SLDDC3SH504558",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/868435d357bd.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 34999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru Forester Convenience",
+      "vin": "JF2SLDAC6SH536148",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/7462304d80d5.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 30488.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Subaru Outback Onyx",
@@ -942,7 +937,20 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "price": 43616.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Sonata Hybrid Preferred-Trend",
+      "vin": "KMHL34JJ3TA162671",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/0d66285ba6d9.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Sonata Hybrid",
+      "condition": "used",
+      "price": 30999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Hyundai Tucson Preferred",
@@ -990,28 +998,6 @@
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
-      "vin": "JF2GUSND9T8259281",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/5f510d7fc627.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "used",
-      "price": 39226.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
-      "vin": "JF2GUSND2T8262135",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/4ca82c2cc294.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "used",
-      "price": 39226.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
       "vin": "JF2GUSND4T8264162",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/20c2f1773a90.html",
       "year": 2026,
@@ -1044,14 +1030,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Onyx",
-      "vin": "JF2GUHFC2T8222016",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/53c9481233f0.html",
+      "name": "2026 Subaru Crosstrek Touring",
+      "vin": "JF2GUHDC4T8273827",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/69a328fda81f.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 33888.0,
+      "price": 32923.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Touring",
+      "vin": "JF2GUHDCXT8285545",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/9ef968f2edf6.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used",
+      "price": 32499.0,
       "price_currency": "CAD"
     },
     {
@@ -1096,17 +1093,6 @@
       "model": "Forester",
       "condition": "used",
       "price": 33524.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Limited",
-      "vin": "JF2SLDRC5TH457902",
-      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/87be6b066353.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 43496.0,
       "price_currency": "CAD"
     },
     {
@@ -1172,7 +1158,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 39999.0,
+      "price": 38999.0,
       "price_currency": "CAD"
     },
     {
@@ -1228,6 +1214,72 @@
       "model": "Outback",
       "condition": "used",
       "price": 49225.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Touring",
+      "vin": "JF2BUPCD4TY578808",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/985ab97778d5.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 41698.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness",
+      "vin": "JF2BURLD8TY578094",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/2b21c0fe2eda.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 49224.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Touring",
+      "vin": "JF2BUPCD7TY581850",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/ff63e6f7a324.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 41698.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness",
+      "vin": "JF2BURLD6TY602988",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/000efac2838e.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 49225.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness",
+      "vin": "JF2BURLD3TY587673",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/07340e54720f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 49225.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness",
+      "vin": "JF2BURLD2TY530011",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/c843277d18dc.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 52028.0,
       "price_currency": "CAD"
     },
     {
