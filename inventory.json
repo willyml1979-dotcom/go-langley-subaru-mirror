@@ -1,7 +1,7 @@
 {
   "dealership": "Go Langley Subaru",
-  "generated_at": "2026-11-17T04:46:46",
-  "vehicle_count": 519,
+  "generated_at": "2026-11-17T22:04:28",
+  "vehicle_count": 520,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -35,7 +35,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 18999.0,
+      "price": 17888.0,
       "price_currency": "CAD"
     },
     {
@@ -218,7 +218,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 27499.0,
+      "price": 25888.0,
       "price_currency": "CAD"
     },
     {
@@ -405,7 +405,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 30799.0,
+      "price": 29699.0,
       "price_currency": "CAD"
     },
     {
@@ -548,7 +548,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 35999.0,
+      "price": 28799.0,
       "price_currency": "CAD"
     },
     {
@@ -559,7 +559,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 31799.0,
+      "price": 28488.0,
       "price_currency": "CAD"
     },
     {
@@ -570,7 +570,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 30199.0,
+      "price": 27788.0,
       "price_currency": "CAD"
     },
     {
@@ -581,7 +581,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 28999.0,
+      "price": 27488.0,
       "price_currency": "CAD"
     },
     {
@@ -592,7 +592,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 27199.0,
+      "price": 25399.0,
       "price_currency": "CAD"
     },
     {
@@ -603,7 +603,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 29499.0,
+      "price": 27499.0,
       "price_currency": "CAD"
     },
     {
@@ -614,7 +614,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 34299.0,
+      "price": 32488.0,
       "price_currency": "CAD"
     },
     {
@@ -625,7 +625,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 35299.0,
+      "price": 33999.0,
       "price_currency": "CAD"
     },
     {
@@ -669,7 +669,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 34599.0,
+      "price": 33888.0,
       "price_currency": "CAD"
     },
     {
@@ -722,7 +722,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 28799.0,
+      "price": 27488.0,
       "price_currency": "CAD"
     },
     {
@@ -768,6 +768,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Subaru Crosstrek Onyx",
+      "vin": "JF2GUHFC1SH256561",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/2e55abbe9507.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used"
+    },
+    {
       "name": "2025 Subaru Forester Premier",
       "vin": "JF2SLDTC8SH566703",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/571b2f88d361.html",
@@ -775,7 +784,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 39499.0,
+      "price": 36488.0,
       "price_currency": "CAD"
     },
     {
@@ -808,7 +817,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 36499.0,
+      "price": 35199.0,
       "price_currency": "CAD"
     },
     {

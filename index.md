@@ -1,6 +1,6 @@
 # Go Langley Subaru
 
-Subaru dealership in BC. AI-readable inventory mirror, about 519 vehicles.
+Subaru dealership in BC. AI-readable inventory mirror, about 520 vehicles.
 
 - Official website: https://www.langleysubaru.com
 - Used vehicles: https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/used/
