@@ -1,6 +1,6 @@
 {
   "dealership": "Go Langley Subaru",
-  "generated_at": "2026-11-18T08:16:04",
+  "generated_at": "2026-11-18T16:15:44",
   "vehicle_count": 530,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -130,7 +130,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 21799.0,
+      "price": 20888.0,
       "price_currency": "CAD"
     },
     {
@@ -903,7 +903,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 37099.0,
+      "price": 35488.0,
       "price_currency": "CAD"
     },
     {
@@ -1002,7 +1002,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 29488.0,
+      "price": 27488.0,
       "price_currency": "CAD"
     },
     {
@@ -1035,7 +1035,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 37414.0,
+      "price": 37413.0,
       "price_currency": "CAD"
     },
     {
@@ -1068,7 +1068,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 33524.0,
+      "price": 33523.0,
       "price_currency": "CAD"
     },
     {
@@ -1079,7 +1079,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 38524.0,
+      "price": 38523.0,
       "price_currency": "CAD"
     },
     {
@@ -1090,7 +1090,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 41024.0,
+      "price": 41023.0,
       "price_currency": "CAD"
     },
     {
@@ -1101,7 +1101,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 33524.0,
+      "price": 33523.0,
       "price_currency": "CAD"
     },
     {
@@ -1112,7 +1112,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 45024.0,
+      "price": 45023.0,
       "price_currency": "CAD"
     },
     {
@@ -1123,7 +1123,7 @@
       "make": "Subaru",
       "model": "Forester Hybrid",
       "condition": "used",
-      "price": 48024.0,
+      "price": 44999.0,
       "price_currency": "CAD"
     },
     {
@@ -1134,7 +1134,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 33097.0,
+      "price": 32789.0,
       "price_currency": "CAD"
     },
     {
@@ -1145,7 +1145,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 41796.0,
+      "price": 41795.0,
       "price_currency": "CAD"
     },
     {
@@ -1178,7 +1178,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 48024.0,
+      "price": 48023.0,
       "price_currency": "CAD"
     },
     {
@@ -1189,7 +1189,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 51524.0,
+      "price": 51523.0,
       "price_currency": "CAD"
     },
     {
@@ -1200,7 +1200,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 51524.0,
+      "price": 51523.0,
       "price_currency": "CAD"
     },
     {
