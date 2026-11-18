@@ -1,6 +1,6 @@
 {
   "dealership": "Go Langley Subaru",
-  "generated_at": "2026-11-18T07:38:43",
+  "generated_at": "2026-11-18T08:16:04",
   "vehicle_count": 530,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1666,25 +1666,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek ",
+      "name": "2026 Subaru Crosstrek ONYX | AWD",
       "vin": "JF2GUHFCXT8295683",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/cc122c204d30.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": 34345.0,
+      "price": 37928.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek ",
+      "name": "2026 Subaru Crosstrek ONYX | AWD",
       "vin": "JF2GUHFC8T8295715",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/66cb063bb832.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": 34345.0,
+      "price": 37928.0,
       "price_currency": "CAD"
     },
     {
@@ -4328,14 +4328,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback ",
+      "name": "2026 Subaru Outback TOURING | AWD",
       "vin": "JF2BUPCD9TY596463",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/9897459e4d24.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": -750.0,
+      "price": 43728.0,
       "price_currency": "CAD"
     },
     {
