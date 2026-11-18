@@ -1,7 +1,7 @@
 {
   "dealership": "Go Langley Subaru",
-  "generated_at": "2026-11-17T22:04:28",
-  "vehicle_count": 520,
+  "generated_at": "2026-11-17T22:43:20",
+  "vehicle_count": 530,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1358,14 +1358,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Hybrid ",
+      "name": "2026 Subaru Crosstrek Hybrid e-BOXER Hybrid Limited | AWD",
       "vin": "JF2GUSND0T8293836",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/f3274b9c80d5.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
       "condition": "new",
-      "price": -1250.0,
+      "price": 43428.0,
       "price_currency": "CAD"
     },
     {
@@ -1633,36 +1633,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek ",
+      "name": "2026 Subaru Crosstrek LIMITED | AWD",
       "vin": "JF2GUHNC0T8295970",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/d4371ed2d86a.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": -1750.0,
+      "price": 40928.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek ",
+      "name": "2026 Subaru Crosstrek TOURING | AWD",
       "vin": "JF2GUHDCXT8295847",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/75f081880963.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": -750.0,
+      "price": 36428.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek ",
+      "name": "2026 Subaru Crosstrek CONVENIENCE | AWD",
       "vin": "JF2GUHBC5T8297461",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/cf732b055fd1.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": -750.0,
+      "price": 33428.0,
       "price_currency": "CAD"
     },
     {
@@ -3877,6 +3877,72 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Subaru Forester Touring",
+      "vin": "JF2SLDDC9TH481529",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/87f1ac093278.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD9TH481707",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/2507cba11fbe.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 46445.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Limited",
+      "vin": "JF2SLDRC6TH481688",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/85f650827bf6.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 40945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Limited",
+      "vin": "JF2SLDRCXTH481600",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/130eb8b260ef.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 40945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD1TH481569",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/27fc0425be0d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 48695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD3TH481573",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/d7c8e7d91cdf.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 48695.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Subaru Impreza ",
       "vin": "JF1GUAFC9T8292026",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/67d264f51ed1.html",
@@ -4237,6 +4303,17 @@
       "model": "Outback",
       "condition": "new",
       "price": 54028.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback TOURING | AWD",
+      "vin": "JF2BUPCD2TY587863",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/9f623905fdbd.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 43728.0,
       "price_currency": "CAD"
     },
     {
@@ -5343,6 +5420,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Subaru Crosstrek ",
+      "vin": "JF2GUHDC6V8205824",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/789ccb4d4ab5.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek ",
+      "vin": "JF2GUSGD1V8205036",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/a2dbfd4054fb.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Subaru Impreza ",
       "vin": "JF1GUHJC5V8207931",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/f3fa64b20a3d.html",
@@ -5527,6 +5626,17 @@
       "model": "Outback",
       "condition": "new",
       "price": 51845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback ",
+      "vin": "JF2BUPCD6VY452839",
+      "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/714e9d5a23be.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 41195.0,
       "price_currency": "CAD"
     },
     {
