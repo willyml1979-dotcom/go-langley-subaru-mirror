@@ -1,6 +1,6 @@
 {
   "dealership": "Go Langley Subaru",
-  "generated_at": "2026-11-18T16:15:44",
+  "generated_at": "2026-11-18T16:59:56",
   "vehicle_count": 530,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -3943,14 +3943,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Impreza ",
+      "name": "2026 Subaru Impreza TOURING | AWD",
       "vin": "JF1GUAFC9T8292026",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/67d264f51ed1.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Impreza",
       "condition": "new",
-      "price": 30375.0,
+      "price": 34251.0,
       "price_currency": "CAD"
     },
     {
@@ -4350,14 +4350,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback ",
+      "name": "2026 Subaru Outback PREMIER XT | AWD",
       "vin": "JF2BURJD8TY596520",
       "url": "https://willyml1979-dotcom.github.io/go-langley-subaru-mirror/new/33e9c1fb7212.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 49695.0,
+      "price": 54028.0,
       "price_currency": "CAD"
     },
     {
@@ -5647,7 +5647,7 @@
       "make": "Subaru",
       "model": "Trailseeker LIMITED",
       "condition": "new",
-      "price": 60821.0,
+      "price": 57121.0,
       "price_currency": "CAD"
     },
     {
@@ -5658,7 +5658,7 @@
       "make": "Subaru",
       "model": "Trailseeker LIMITED",
       "condition": "new",
-      "price": 60821.0,
+      "price": 57121.0,
       "price_currency": "CAD"
     },
     {
